@@ -17,6 +17,7 @@ function App() {
         >
           Hello...MotherBoard!
           Some additional add-ons...
+          Loading......
         </a>
       </header>
     </div>
