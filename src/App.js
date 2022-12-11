@@ -18,7 +18,7 @@ function App() {
           Hello...MotherBoard!.............00101
           Some additional add-ons......110100
           Loading............0010100001100010
-          ......
+          ......0010
           Loading.........
           Loading............0..
             00000000000000000000
