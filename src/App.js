@@ -16,7 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
           Hello...MotherBoard!.............00101
-          Some additional add-ons......110100
+          Some additional add-ons......110100..
           Loading............0010100001100010..00
           ......0010        Loading.........0010110
           Loading............0..000111..00
